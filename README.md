@@ -77,6 +77,6 @@
 | <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x:         | |
 | <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/>      | Java      |   :x: | |
 | <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java      |    :x: | |
-| <a href="https://github.com/theodoremoreland/TechJobsOOP2">TechJobsOOP2<a/>  |  Java | :x: | S3 |
+| <a href="https://github.com/theodoremoreland/TechJobsOOP2">TechJobsOOP2<a/>  |  Java | :x: |  |
 | <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: |  |
   
