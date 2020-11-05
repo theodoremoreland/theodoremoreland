@@ -39,7 +39,7 @@
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js |
 | <a href="https://github.com/theodoremoreland/ScrabbleScorer">ScrabbleScorer<a/>  | JavaScript  | :heavy_check_mark: | Node.js |
 | <a href="https://github.com/theodoremoreland/STLServiceCalls">STLServiceCalls<a/>          | Python | :heavy_check_mark:         | Pandas |
-| <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :heavy_check_mark: | Pandas |
+| <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :x: | Pandas |
 | <a href="https://github.com/theodoremoreland/FlightSimulator">FlightSimulator<a/> | JavaScript      |    :heavy_check_mark: | DOM |
 | <a href="https://github.com/theodoremoreland/CandidateTesting">CandidateTesting<a/>  |  JavaScript | :heavy_check_mark: | Node.js |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js |
