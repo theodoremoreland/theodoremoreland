@@ -22,7 +22,7 @@
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/ClassViewer">ClassViewer<a/>          | JavaScript | :x:         | React.js |
-| <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/>          | Python | :x:         | Regular expressions |
+| <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/>          | Python | :x:         | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :x: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
