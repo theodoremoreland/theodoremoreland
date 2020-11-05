@@ -24,7 +24,7 @@
 | <a href="https://github.com/theodoremoreland/ClassViewer">ClassViewer<a/>          | JavaScript | :x:         | React.js |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/>      | Python      |   :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python      |    :x: | Amazon Alexa |
-| <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  JavaScript, Java, Python | :x: | Data Structures |
+| <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :x: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
 
