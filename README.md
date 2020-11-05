@@ -1,9 +1,9 @@
 # Projects Overview
 
 ## Contexts
-- [Professional](#Professional)
-- [Personal](#Personal)
-- [Coursework](#Coursework)
+- [Professional](#Professional) (6)
+- [Personal](#Personal) (6)
+- [Coursework](#Coursework) (46+)
 
 ## Professional
 
