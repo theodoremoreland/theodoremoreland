@@ -1,9 +1,9 @@
 # Projects Overview
 
 ## Contexts
-- [Professional](#Professional) (6) *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) (6) *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) (46+) *Homework assignments across various courses*
+- [Professional](#Professional) **(6)** *Abridged versions of projects developed for employer or client*
+- [Personal](#Personal) **(6)** *Projects developed to solve a personal problem or for additional practice*
+- [Coursework](#Coursework) **(46+)** *Homework assignments across various courses*
 
 ## Professional
 
