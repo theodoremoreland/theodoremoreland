@@ -2,8 +2,8 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(6)** *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(46+)** *Homework assignments across various courses*
+- [Personal](#Personal) **(5)** *Projects developed to solve a personal problem or for additional practice*
+- [Coursework](#Coursework) **(48+)** *Homework assignments across various courses*
 
 ## Professional
 
@@ -22,8 +22,7 @@
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/ClassViewer">ClassViewer<a/>          | JavaScript | :x:         | React.js |
-| <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/>      | Python      |   :x: | Amazon Alexa |
-| <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python      |    :x: | Amazon Alexa |
+| <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/>          | Python | :x:         | Regular expressions |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :x: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
@@ -36,6 +35,8 @@
 | <a href="https://github.com/theodoremoreland/WineDataWebsite">WineDataWebsite<a/>      | Python, JavaScript      |   :heavy_check_mark: | Flask |
 | <a href="https://github.com/theodoremoreland/Blogz">Blogz<a/> | Python      |    :heavy_check_mark: | Flask |
 | <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/>  |  Python | :heavy_check_mark: | Flask |
+| <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/>      | Python      |   :x: | Amazon Alexa |
+| <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python      |    :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js |
 | <a href="https://github.com/theodoremoreland/ScrabbleScorer">ScrabbleScorer<a/>  | JavaScript  | :heavy_check_mark: | Node.js |
 | <a href="https://github.com/theodoremoreland/STLServiceCalls">STLServiceCalls<a/>          | Python | :heavy_check_mark:         | Pandas |
@@ -79,4 +80,3 @@
 | <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java      |    :x: | |
 | <a href="https://github.com/theodoremoreland/TechJobsOOP2">TechJobsOOP2<a/>  |  Java | :x: |  |
 | <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: |  |
-  
