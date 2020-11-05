@@ -71,7 +71,7 @@
 | <a href="https://github.com/theodoremoreland/DataJournalismD3">DataJournalismD3<a/>  | JavaScript  | :x: | D3 |
 | <a href="https://github.com/theodoremoreland/UFOs">UFOs<a/>  | JavaScript  | :x: | DOM |
 | <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/>          | TypeScript | :x:         | Angular.js |
-| <a href="https://github.com/theodoremoreland/theodoremoreland.github.io">theodoremoreland.github.io<a/>      | HTML/CSS      |   :x: | github.io |
+| <a href="https://github.com/theodoremoreland/theodoremoreland.github.io">theodoremoreland.github.io<a/>      | HTML/CSS      |   :x: | Bootstrap |
 | <a href="https://github.com/theodoremoreland/Pymaceuticals">Pymaceuticals<a/> | Python      |    :x: | Pandas |
 | <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :x: |  |
 | <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :x: | Excel |
