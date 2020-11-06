@@ -29,7 +29,7 @@ Presentable* - Project is completed, has a detailed README.md, and keeps code sm
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/>          | Python | :x:         | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :x: | Selenium/Splinter |
-| <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
+| <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :x: | whateverorigin |
 
 
 ## Coursework
