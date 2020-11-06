@@ -5,13 +5,16 @@
 - [Personal](#Personal) **(6)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(48+)** - *Homework assignments across various courses*
 
+### Keywords:
+Presentable* Project is completed, has a detailed README.md, and keeps code smells to a minimum.
+
 ## Professional
 
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/REDB">REDB<a/>          | Python | :heavy_check_mark:         | Airflow |
 | <a href="https://github.com/theodoremoreland/WeeklyAbsenceTracker">WeeklyAbsenceTracker<a/>      | JavaScript      |   :x: | React.js |
-| <a href="https://github.com/theodoremoreland/EssentialWorkers">EssentialWorkers<a/> | JavaScript      |    :heavy_check_mark: | React.js |
+| <a href="https://github.com/theodoremoreland/EssentialWorkers">EssentialWorkers<a/> | JavaScript      |    :x: | React.js |
 | <a href="https://github.com/theodoremoreland/ShelfCheck">ShelfCheck<a/>  |  VBA | :heavy_check_mark: | Excel |
 | <a href="https://github.com/theodoremoreland/TemplateMacro">TemplateMacro<a/>  | VBA  | :heavy_check_mark: | Excel |
 | <a href="https://github.com/theodoremoreland/REDB-API">REDB-API<a/>  | Python  | :x: | Fast API |
@@ -34,8 +37,8 @@
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/MovieIon">MovieIon<a/>          | Python, JavaScript | :heavy_check_mark:         | Flask |
 | <a href="https://github.com/theodoremoreland/WineDataWebsite">WineDataWebsite<a/>      | Python, JavaScript      |   :heavy_check_mark: | Flask |
-| <a href="https://github.com/theodoremoreland/Blogz">Blogz<a/> | Python      |    :heavy_check_mark: | Flask |
-| <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/>  |  Python | :heavy_check_mark: | Flask |
+| <a href="https://github.com/theodoremoreland/Blogz">Blogz<a/> | Python      |    :x: | Flask |
+| <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/>  |  Python | :x: | Flask |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/>      | Python      |   :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python      |    :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js |
