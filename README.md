@@ -5,8 +5,8 @@
 - [Personal](#Personal) **(6)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(48+)** - *Homework assignments across various courses*
 
-### Keywords:
-Presentable* Project is completed, has a detailed README.md, and keeps code smells to a minimum.
+**Keywords:**  
+Presentable* - Project is completed, has a detailed README.md, and keeps code smells to a minimum.
 
 ## Professional
 
