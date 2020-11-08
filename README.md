@@ -2,8 +2,8 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(8)** - *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(46+)** - *Homework assignments across various courses*
+- [Personal](#Personal) **(12)** - *Projects developed to solve a personal problem or for additional practice*
+- [Coursework](#Coursework) **(42+)** - *Homework assignments across various courses*
 
 **Keywords:**  
 Presentable* - Project is completed, has a detailed README.md, and at least one attempt has been made to significantly reduce code smells.
