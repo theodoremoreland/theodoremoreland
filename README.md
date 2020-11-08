@@ -25,7 +25,6 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/theodoremoreland.dev">theodoremoreland.dev<a/> | JavaScript | :x: | React.js |
-| <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
 | <a href="https://github.com/theodoremoreland/ClassViewer">ClassViewer<a/> | JavaScript | :x: | React.js |
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
@@ -34,7 +33,8 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/SocialMediaScrape">SocialMediaScrape<a/>  | Python  | :x: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/Snake">Snake<a/>      | Python      |   :x: | PyGame |
-| <a href="https://github.com/theodoremoreland/Pong">Pong<a/> | Python      |    :x: | PyGame |
+| <a href="https://github.com/theodoremoreland/Pong">Pong<a/> | Python      |    :x: | turtle |
+| <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :x: | whateverorigin |
 
 
@@ -63,9 +63,9 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/UserSignup">UserSignup<a/>      | Python      |   :heavy_check_mark: | Flask | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/HeroesOfPymoli">HeroesOfPymoli<a/> | Python      |    :heavy_check_mark: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/html-me-something">html-me-something<a/>  |  HTML/CSS | :heavy_check_mark: | S3 | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/WeatherPy">WeatherPy<a/>  | Python  | :heavy_check_mark: | Pandas | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/WeatherPy">WeatherPy<a/>  | Python  | :heavy_check_mark: | Matplotlib | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/LeadsAPI">LeadsAPI<a/>  | Python  | :x: | Flask | Daugherty University |
-| <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Heroku | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/MySQL">MySQL<a/>      | SQL      |   :heavy_check_mark: | MySQL | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
 | <a href="https://github.com/theodoremoreland/DebeziumPractice">DebeziumPractice<a/>  |  bash | :x: | Kafka | Daugherty University |
@@ -76,11 +76,11 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/> | TypeScript | :x: | Angular.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/theodoremoreland.github.io">theodoremoreland.github.io<a/> | HTML/CSS | :x: | Bootstrap | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Pymaceuticals">Pymaceuticals<a/> | Python      |    :x: | Pandas | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :x: |  | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :x: | csv | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :x: | Excel | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :x: | | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x:         | | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/>      | Java      |   :x: | | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java      |    :x: | | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsOOP2">TechJobsOOP2<a/>  |  Java | :x: |  | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: |  | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :x: | Apache Commons CSV | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/> | Java | :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java |  :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsOOP2">TechJobsOOP2<a/>  |  Java | :x: | JUnit | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: | Spring Boot | LaunchCode (Lc101) |
