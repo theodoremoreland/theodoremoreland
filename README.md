@@ -17,7 +17,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/EssentialWorkers">EssentialWorkers<a/> | JavaScript      |    :heavy_check_mark: | React.js |
 | <a href="https://github.com/theodoremoreland/ShelfCheck">ShelfCheck<a/>  |  VBA | :heavy_check_mark: | Excel |
 | <a href="https://github.com/theodoremoreland/TemplateMacro">TemplateMacro<a/>  | VBA  | :heavy_check_mark: | Excel |
-| <a href="https://github.com/theodoremoreland/REDB-API">REDB-API<a/>  | Python  | :x: | Fast API |
+| <a href="https://github.com/theodoremoreland/REDB-API">REDB-API<a/>  | Python  | :heavy_check_mark: | Fast API |
 
 
 ## Personal
