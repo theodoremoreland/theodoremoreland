@@ -13,7 +13,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/REDB">REDB<a/>          | Python | :heavy_check_mark:         | Airflow |
-| <a href="https://github.com/theodoremoreland/WeeklyAbsenceTracker">WeeklyAbsenceTracker<a/>      | JavaScript      |   :x: | React.js |
+| <a href="https://github.com/theodoremoreland/WeeklyAbsenceTracker">WeeklyAbsenceTracker<a/>      | JavaScript      |   :heavy_check_mark: | React.js |
 | <a href="https://github.com/theodoremoreland/EssentialWorkers">EssentialWorkers<a/> | JavaScript      |    :heavy_check_mark: | React.js |
 | <a href="https://github.com/theodoremoreland/REDB-API">REDB-API<a/>  | Python  | :heavy_check_mark: | Fast API |
 | <a href="https://github.com/theodoremoreland/ShelfCheck">ShelfCheck<a/>  |  VBA | :heavy_check_mark: | Excel |
