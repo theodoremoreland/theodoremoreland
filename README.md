@@ -2,8 +2,8 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(11)** - *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(42+)** - *Homework assignments across various courses*
+- [Personal](#Personal) **(12)** - *Projects developed to solve a personal problem or for additional practice*
+- [Coursework](#Coursework) **(41+)** - *Homework assignments across various courses*
 
 **Keywords:**  
 Presentable* - Project is completed, has a detailed README.md, and at least one attempt has been made to significantly reduce code smells.
@@ -30,6 +30,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python | :x: | Amazon Alexa |
+| <a href="https://github.com/theodoremoreland/DebeziumPractice">DebeziumPractice<a/>  |  bash | :x: | Kafka |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/SocialMediaScrape">SocialMediaScrape<a/>  | Python  | :x: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
@@ -68,7 +69,6 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/MySQL">MySQL<a/>      | SQL      |   :heavy_check_mark: | MySQL | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
-| <a href="https://github.com/theodoremoreland/DebeziumPractice">DebeziumPractice<a/>  |  bash | :x: | Kafka | Daugherty University |
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
 | <a href="https://github.com/theodoremoreland/typescript-lc101-projects">typescript-lc101-projects<a/>  |  TypeScript | :x: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/DataJournalismD3">DataJournalismD3<a/>  | JavaScript  | :x: | D3 | Wash U (DABC) |
