@@ -42,14 +42,18 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 ## Coursework
 | Project       | Language  | Presentable  | Key Technology | Course |
 |---------------|---------------|---------------|---------------|---------------
+| <a href="https://github.com/theodoremoreland/LeadsAPI">LeadsAPI<a/>  | Python  | :x: | Flask | Daugherty University |
 | <a href="https://github.com/theodoremoreland/MovieIon">MovieIon<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/WineDataWebsite">WineDataWebsite<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Blogz">Blogz<a/> | Python | :x: | Flask | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/> | Python | :x: | Flask | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/WineDataWebsite">WineDataWebsite<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Flask | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
+| <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
+| <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/> | Python | :x: | Flask | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :x: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/ScrabbleScorer">ScrabbleScorer<a/>  | JavaScript  | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/STLServiceCalls">STLServiceCalls<a/> | Python | :heavy_check_mark: | Pandas | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :x: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/FlightSimulator">FlightSimulator<a/> | JavaScript      |    :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/CandidateTesting">CandidateTesting<a/>  |  JavaScript | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js | LaunchCode (Lc101) |
@@ -65,11 +69,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/HeroesOfPymoli">HeroesOfPymoli<a/> | Python      |    :heavy_check_mark: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/html-me-something">html-me-something<a/>  |  HTML/CSS | :heavy_check_mark: | S3 | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/WeatherPy">WeatherPy<a/>  | Python  | :heavy_check_mark: | Matplotlib | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/LeadsAPI">LeadsAPI<a/>  | Python  | :x: | Flask | Daugherty University |
-| <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/MySQL">MySQL<a/>      | SQL      |   :heavy_check_mark: | MySQL | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
-| <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
 | <a href="https://github.com/theodoremoreland/typescript-lc101-projects">typescript-lc101-projects<a/>  |  TypeScript | :x: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/DataJournalismD3">DataJournalismD3<a/>  | JavaScript  | :x: | D3 | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/UFOs">UFOs<a/>  | JavaScript  | :x: | DOM | Wash U (DABC) |
