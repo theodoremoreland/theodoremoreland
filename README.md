@@ -77,7 +77,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/theodoremoreland.github.io">theodoremoreland.github.io<a/> | HTML/CSS | :x: | Bootstrap | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Pymaceuticals">Pymaceuticals<a/> | Python      |    :x: | Matplotlib | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :x: | csv | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :x: | Excel | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :heavy_check_mark: | Excel | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :x: | Apache Commons CSV | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/> | Java | :x: | Spring Boot | LaunchCode (Lc101) |
