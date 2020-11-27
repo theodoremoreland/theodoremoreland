@@ -74,7 +74,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/DataJournalismD3">DataJournalismD3<a/>  | JavaScript  | :x: | D3 | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/UFOs">UFOs<a/>  | JavaScript  | :x: | DOM | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/> | TypeScript | :x: | Angular.js | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/theodoremoreland.github.io">theodoremoreland.github.io<a/> | HTML/CSS | :x: | Bootstrap | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/y-axiom">y-axiom<a/> | HTML/CSS | :x: | Bootstrap | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Pymaceuticals">Pymaceuticals<a/> | Python      |    :heavy_check_mark: | Matplotlib | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :heavy_check_mark: | csv | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :heavy_check_mark: | Excel | Wash U (DABC) |
