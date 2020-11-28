@@ -50,7 +50,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
-| <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/> | Python | :x: | Flask | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/> | Python | :heavy_check_mark: | Flask | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :x: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/ScrabbleScorer">ScrabbleScorer<a/>  | JavaScript  | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/STLServiceCalls">STLServiceCalls<a/> | Python | :heavy_check_mark: | Pandas | Wash U (DABC) |
