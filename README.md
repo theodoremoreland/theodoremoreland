@@ -36,7 +36,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/Pong">Pong<a/> | Python      |    :x: | turtle |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
-| <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :x: | whateverorigin |
+| <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
 
 
 ## Coursework
