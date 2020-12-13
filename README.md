@@ -61,7 +61,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/FetchJSON">FetchJSON<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/SearchForm">SearchForm<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/DataJournalismD3">DataJournalismD3<a/>  | JavaScript  | :x: | D3 | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :x: | Flask | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/UFOs">UFOs<a/>  | JavaScript  | :x: | DOM | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/> | Python | :x: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/HawaiiClimateDataAPI">HawaiiClimateDataAPI<a/>  | Python  | :heavy_check_mark: | Flask | Wash U (DABC) |
