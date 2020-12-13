@@ -2,7 +2,7 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(12)** - *Projects developed to solve a personal problem or for additional practice*
+- [Personal](#Personal) **(11)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(43)** - *Homework assignments across various courses*
 
 **Keywords:**  
@@ -35,7 +35,6 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/DebeziumPractice">DebeziumPractice<a/>  |  bash | :x: | Kafka |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
-| <a href="https://github.com/theodoremoreland/Pong">Pong<a/> | Python      |    :x: | turtle |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
 
 
