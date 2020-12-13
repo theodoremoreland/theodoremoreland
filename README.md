@@ -58,6 +58,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/CandidateTesting">CandidateTesting<a/>  |  JavaScript | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/FetchJSON">FetchJSON<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/SearchForm">SearchForm<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/StarMatch">StarMatch<a/>          | JavaScript | :x:         | React.js | Pluralsight |
 | <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :x: | React.js |Pluralsight |
 | <a href="https://github.com/theodoremoreland/TypeRace">TypeRace<a/> | JavaScript      |    :x: |React.js | Daugherty University |
