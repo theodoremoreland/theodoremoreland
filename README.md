@@ -3,7 +3,7 @@
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
 - [Personal](#Personal) **(11)** - *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(42)** - *Homework assignments across various courses*
+- [Coursework](#Coursework) **(40)** - *Homework assignments across various courses*
 
 **Keywords:**  
 Presentable* - Project is completed, has a detailed README.md, and at least one attempt has been made to significantly reduce code smells.
@@ -58,8 +58,6 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/CandidateTesting">CandidateTesting<a/>  |  JavaScript | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/FlightSimulator">FlightSimulator<a/> | JavaScript      |    :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/LaunchChecklistForm">LaunchChecklistForm<a/>  |  JavaScript | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/FetchJSON">FetchJSON<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/SearchForm">SearchForm<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/UFOs">UFOs<a/>  | JavaScript  | :heavy_check_mark: | d3.js | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/> | Python | :heavy_check_mark: | Flask | Wash U (DABC) |
