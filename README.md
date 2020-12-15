@@ -64,7 +64,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/HawaiiClimateDataAPI">HawaiiClimateDataAPI<a/>  | Python  | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Y-axiom">Y-axiom<a/> | HTML/CSS | :heavy_check_mark: | Bootstrap | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/WeatherPy">WeatherPy<a/>  | Python  | :heavy_check_mark: | Matplotlib | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :x: | Pandas | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/YelpETL">YelpETL<a/>      | Python      |   :heavy_check_mark: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/STLServiceCalls">STLServiceCalls<a/> | Python | :heavy_check_mark: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/HeroesOfPymoli">HeroesOfPymoli<a/> | Python      |    :heavy_check_mark: | Pandas | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Pymaceuticals">Pymaceuticals<a/> | Python      |    :heavy_check_mark: | Matplotlib | Wash U (DABC) |
