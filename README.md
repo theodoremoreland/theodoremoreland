@@ -62,7 +62,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/SearchForm">SearchForm<a/>  | JavaScript  | :heavy_check_mark: | DOM | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/BellyButtonBiodiversity">BellyButtonBiodiversity<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/UFOs">UFOs<a/>  | JavaScript  | :heavy_check_mark: | d3.js | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/> | Python | :x: | Flask | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/MissionToMars">MissionToMars<a/> | Python | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/HawaiiClimateDataAPI">HawaiiClimateDataAPI<a/>  | Python  | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Y-axiom">Y-axiom<a/> | HTML/CSS | :heavy_check_mark: | Bootstrap | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/WeatherPy">WeatherPy<a/>  | Python  | :heavy_check_mark: | Matplotlib | Wash U (DABC) |
