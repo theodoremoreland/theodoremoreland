@@ -31,7 +31,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
-| <a href="https://github.com/theodoremoreland/SocialMediaScrape">SocialMediaScrape<a/>  | Python  | :x: | Selenium/Splinter |
+| <a href="https://github.com/theodoremoreland/LinkedInScrape">LinkedInScrape<a/>  | Python  | :x: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/DebeziumPractice">DebeziumPractice<a/>  |  bash | :x: | Kafka |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :x: | Data Structures |
