@@ -47,7 +47,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/LeadsAPI">LeadsAPI<a/>  | Python  | :x: | Flask | Daugherty University |
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
-| <a href="https://github.com/theodoremoreland/TypeRace">TypeRace<a/> | JavaScript      |    :x: |React.js | Daugherty University |
+| <a href="https://github.com/theodoremoreland/TypeRace">TypeRace<a/> | JavaScript      |    :heavy_check_mark: |React.js | Daugherty University |
 | <a href="https://github.com/theodoremoreland/StarMatch">StarMatch<a/>          | JavaScript | :x:         | React.js | Pluralsight |
 | <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :x: | React.js |Pluralsight |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js | LaunchCode (Lc101) |
