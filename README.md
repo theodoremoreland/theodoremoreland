@@ -49,7 +49,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
 | <a href="https://github.com/theodoremoreland/TypeRace">TypeRace<a/> | JavaScript      |    :heavy_check_mark: |React.js | Daugherty University |
 | <a href="https://github.com/theodoremoreland/StarMatch">StarMatch<a/>          | JavaScript | :x:         | React.js | Pluralsight |
-| <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :x: | React.js |Pluralsight |
+| <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :heavy_check_mark: | React.js |Pluralsight |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MissionPlanner">MissionPlanner<a/>  | TypeScript  | :x: | Angular.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js | LaunchCode (Lc101) |
