@@ -3,7 +3,7 @@
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
 - [Personal](#Personal) **(11)** - *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(39)** - *Homework assignments across various courses*
+- [Coursework](#Coursework) **(38)** - *Homework assignments across various courses*
 
 **Keywords:**  
 Presentable* - Project is completed, has a detailed README.md, and at least one attempt has been made to significantly reduce code smells.
@@ -51,7 +51,6 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/StarMatch">StarMatch<a/>          | JavaScript | :x:         | React.js | Pluralsight |
 | <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :heavy_check_mark: | React.js |Pluralsight |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/MissionPlanner">MissionPlanner<a/>  | TypeScript  | :x: | Angular.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/ScrabbleScorer">ScrabbleScorer<a/>  | JavaScript  | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/CandidateTesting">CandidateTesting<a/>  |  JavaScript | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
