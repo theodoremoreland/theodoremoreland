@@ -3,7 +3,7 @@
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
 - [Personal](#Personal) **(11)** - *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(38)** - *Homework assignments across various courses*
+- [Coursework](#Coursework) **(37)** - *Homework assignments across various courses*
 
 **Keywords:**  
 Presentable* - Project is completed, has a detailed README.md, and at least one attempt has been made to significantly reduce code smells.
@@ -76,6 +76,5 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/> | Java | :x: | Spring Boot | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsOOP2">TechJobsOOP2<a/>  |  Java | :x: | JUnit | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java |  :x: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :x: | Apache Commons CSV | LaunchCode (Lc101) |
