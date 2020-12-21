@@ -44,6 +44,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/MovieIon">MovieIon<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/WineDataWebsite">WineDataWebsite<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Blogz">Blogz<a/> | Python | :heavy_check_mark: | Flask | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/LeadsAPI">LeadsAPI<a/>  | Python  | :x: | Flask | Daugherty University |
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
@@ -68,13 +69,12 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/Pymaceuticals">Pymaceuticals<a/> | Python      |    :heavy_check_mark: | Matplotlib | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :heavy_check_mark: | csv | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :heavy_check_mark: | Excel | Wash U (DABC) |
+| <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/> | Java | :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java |  :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :x: | Apache Commons CSV | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/> | Python | :heavy_check_mark: | Flask | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/WebCaesar">WebCaesar<a/>          | Python | :heavy_check_mark:         | Flask | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/UserSignup">UserSignup<a/>      | Python      |   :heavy_check_mark: | Flask | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/html-me-something">html-me-something<a/>  |  HTML/CSS | :heavy_check_mark: | S3 | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MySQL">MySQL<a/>      | SQL      |   :heavy_check_mark: | MySQL | Wash U (DABC) |
-| <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x: | Spring Boot | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: | Spring Boot | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/> | Java | :x: | Spring Boot | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java |  :x: | Spring Boot | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :x: | Apache Commons CSV | LaunchCode (Lc101) |
