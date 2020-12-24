@@ -33,7 +33,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/LinkedInScrape">LinkedInScrape<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
-| <a href="https://github.com/theodoremoreland/DebeziumToElasticSearch">DebeziumToElasticSearch<a/>  |  bash | :x: | Kafka |
+| <a href="https://github.com/theodoremoreland/DebeziumToElasticSearch">DebeziumToElasticSearch<a/>  |  bash | :heavy_check_mark: | Kafka |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :heavy_check_mark: | Data Structures |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
 
