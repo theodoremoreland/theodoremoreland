@@ -2,7 +2,7 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(11)** - *Projects developed to solve a personal problem or for additional practice*
+- [Personal](#Personal) **(12)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(37)** - *Homework assignments across various courses*
 
 **Keywords:**  
@@ -27,6 +27,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/theodoremoreland.dev">theodoremoreland.dev<a/> | JavaScript | :heavy_check_mark: | React.js |
 | <a href="https://github.com/theodoremoreland/ClassViewer">ClassViewer<a/> | JavaScript | :x: | React.js |
+| <a href="https://github.com/theodoremoreland/TodoListApp">Todo List<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python | :x: | Amazon Alexa |
