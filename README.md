@@ -3,7 +3,7 @@
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
 - [Personal](#Personal) **(12)** - *Projects developed to solve a personal problem or for additional practice*
-- [Coursework](#Coursework) **(37)** - *Homework assignments across various courses*
+- [Coursework](#Coursework) **(36)** - *Homework assignments across various courses*
 
 **Keywords:**  
 Presentable* - Project is completed, has a detailed README.md, and at least one attempt has been made to significantly reduce code smells.
@@ -50,7 +50,6 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
 | <a href="https://github.com/theodoremoreland/TypeRace">TypeRace<a/> | JavaScript      |    :heavy_check_mark: |React.js | Daugherty University |
-| <a href="https://github.com/theodoremoreland/StarMatch">StarMatch<a/>          | JavaScript | :x:         | React.js | Pluralsight |
 | <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :heavy_check_mark: | React.js |Pluralsight |
 | <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js | LaunchCode (Lc101) |
