@@ -2,7 +2,7 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(12)** - *Projects developed to solve a personal problem or for additional practice*
+- [Personal](#Personal) **(13)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(36)** - *Homework assignments across various courses*
 
 **Keywords:**  
@@ -26,8 +26,8 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/theodoremoreland.dev">theodoremoreland.dev<a/> | JavaScript | :heavy_check_mark: | React.js |
-| <a href="https://github.com/theodoremoreland/ClassViewerWeb">ClassViewerWeb<a/> | JavaScript | :x: | React.js |
-  | <a href="https://github.com/theodoremoreland/ClassViewerMobile">ClassViewerMobile<a/> | JavaScript | :x: | React-Native |
+| <a href="https://github.com/theodoremoreland/ClassViewerWeb">ClassViewerWeb<a/> | TypeScript | :x: | React.js |
+  | <a href="https://github.com/theodoremoreland/ClassViewerMobile">ClassViewerMobile<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/TodoListApp">TodoList<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
