@@ -26,7 +26,8 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | Project       | Language  | Presentable  | Key Technology |
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/theodoremoreland.dev">theodoremoreland.dev<a/> | JavaScript | :heavy_check_mark: | React.js |
-| <a href="https://github.com/theodoremoreland/ClassViewer">ClassViewer<a/> | JavaScript | :x: | React.js |
+| <a href="https://github.com/theodoremoreland/ClassViewerWeb">ClassViewerWeb<a/> | JavaScript | :x: | React.js |
+  | <a href="https://github.com/theodoremoreland/ClassViewerMobile">ClassViewerMobile<a/> | JavaScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/TodoListApp">TodoList<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
