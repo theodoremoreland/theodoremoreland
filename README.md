@@ -2,7 +2,7 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(13)** - *Projects developed to solve a personal problem or for additional practice*
+- [Personal](#Personal) **(14)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(36)** - *Homework assignments across various courses*
 
 **Keywords:**  
@@ -27,14 +27,15 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/theodoremoreland.dev">theodoremoreland.dev<a/> | JavaScript | :heavy_check_mark: | React.js |
 | <a href="https://github.com/theodoremoreland/ClassViewerWeb">ClassViewerWeb<a/> | TypeScript | :x: | React.js |
-  | <a href="https://github.com/theodoremoreland/ClassViewerMobile">ClassViewerMobile<a/> | TypeScript | :x: | React-Native |
-| <a href="https://github.com/theodoremoreland/TodoListApp">TodoList<a/> | TypeScript | :x: | React-Native |
+| <a href="https://github.com/theodoremoreland/ClassViewerMobile">ClassViewerMobile<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
+| <a href="https://github.com/theodoremoreland/TheoDocs">TheoDocs<a/> | TypeScript | :x: | React |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/LinkedInScrape">LinkedInScrape<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
 | <a href="https://github.com/theodoremoreland/CompanyReviewsScrape">CompanyReviewsScrape<a/>          | Python | :x:         | Selenium/Splinter |
+| <a href="https://github.com/theodoremoreland/TodoListApp">TodoList<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/DebeziumToElasticSearch">DebeziumToElasticSearch<a/>  |  bash | :heavy_check_mark: | Kafka |
 | <a href="https://github.com/theodoremoreland/Algorithms">Algorithms<a/>  |  Assorted | :heavy_check_mark: | Data Structures |
 | <a href="https://github.com/theodoremoreland/ClientSideWebScrape">ClientSideWebScrape<a/>  | JavaScript  | :heavy_check_mark: | whateverorigin |
