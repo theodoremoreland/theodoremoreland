@@ -29,7 +29,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/ClassViewerWeb">ClassViewerWeb<a/> | TypeScript | :x: | React.js |
 | <a href="https://github.com/theodoremoreland/ClassViewerMobile">ClassViewerMobile<a/> | TypeScript | :x: | React-Native |
 | <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
-| <a href="https://github.com/theodoremoreland/TheoDocs">TheoDocs<a/> | TypeScript | :x: | React |
+| <a href="https://github.com/theodoremoreland/TheoDocs">TheoDocs<a/> | TypeScript | :x: | React.js |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/Head-Butt">Head-Butt<a/> | Python | :x: | Amazon Alexa |
 | <a href="https://github.com/theodoremoreland/TikTokDL">TikTokDL<a/>  | Python  | :heavy_check_mark: | Selenium/Splinter |
@@ -53,7 +53,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
 | <a href="https://github.com/theodoremoreland/TypeRace">TypeRace<a/> | JavaScript      |    :heavy_check_mark: |React.js | Daugherty University |
 | <a href="https://github.com/theodoremoreland/GitHubCards">GitHubCards<a/>      | JavaScript      |   :heavy_check_mark: | React.js |Pluralsight |
-| <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular.js | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/OrbitReport">OrbitReport<a/>  | TypeScript  | :heavy_check_mark: | Angular | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/MarsRover">MarsRover<a/>  | JavaScript  | :heavy_check_mark: | Jasmine.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/ScrabbleScorer">ScrabbleScorer<a/>  | JavaScript  | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/CandidateTesting">CandidateTesting<a/>  |  JavaScript | :heavy_check_mark: | Node.js | LaunchCode (Lc101) |
