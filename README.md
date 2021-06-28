@@ -72,7 +72,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/PythonChallenge">PythonChallenge<a/>  |  Python | :heavy_check_mark: | csv | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/YearlyStocks">YearlyStocks<a/>  | VBA  | :heavy_check_mark: | Excel | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/CheeseMVCPersistent">CheeseMVCPersistent<a/> | Java | :x: | Spring Boot | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsMVC">TechJobsMVC<a/>          | Java | :heavy_check_mark: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/TechJobsOOP">TechJobsOOP<a/> | Java |  :heavy_check_mark: | JUnit | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/TechJobsConsole">TechJobsConsole<a/>  | Java  | :heavy_check_mark: | Apache Commons CSV | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/BuildABlog">BuildABlog<a/> | Python | :heavy_check_mark: | Flask | LaunchCode (Lc101) |
