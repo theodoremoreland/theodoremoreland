@@ -47,7 +47,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 | <a href="https://github.com/theodoremoreland/MovieIon">MovieIon<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/WineDataWebsite">WineDataWebsite<a/> | Python, JavaScript | :heavy_check_mark: | Flask | Wash U (DABC) |
 | <a href="https://github.com/theodoremoreland/Blogz">Blogz<a/> | Python | :heavy_check_mark: | Flask | LaunchCode (Lc101) |
-| <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :x: | Spring Boot | LaunchCode (Lc101) |
+| <a href="https://github.com/theodoremoreland/TechJobsPersistent">TechJobsPersistent<a/>  | Java  | :heavy_check_mark: | Spring Boot | LaunchCode (Lc101) |
 | <a href="https://github.com/theodoremoreland/LeadsAPI">LeadsAPI<a/>  | Python  | :x: | Flask | Daugherty University |
 | <a href="https://github.com/theodoremoreland/Poker">Poker<a/> | Python      |    :x: | unittest | Daugherty University |
 | <a href="https://github.com/theodoremoreland/RandomSentences">RandomSentences<a/>  | Python  | :x: | Kafka | Daugherty University |
