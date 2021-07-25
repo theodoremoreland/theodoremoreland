@@ -2,7 +2,7 @@
 
 ## Contexts
 - [Professional](#Professional) **(6)** - *Abridged versions of projects developed for employer or client*
-- [Personal](#Personal) **(14)** - *Projects developed to solve a personal problem or for additional practice*
+- [Personal](#Personal) **(13)** - *Projects developed to solve a personal problem or for additional practice*
 - [Coursework](#Coursework) **(36)** - *Homework assignments across various courses*
 
 **Keywords:**  
