@@ -1,3 +1,5 @@
+<img src="images/birds.jpg" width="900">
+
 # Projects Overview
 
 ## Contexts
