@@ -29,7 +29,7 @@ Presentable* - Project is completed, has a detailed README.md, and at least one 
 |---------------|---------------|---------------|---------------|
 | <a href="https://github.com/theodoremoreland/theodoremoreland.dev">theodoremoreland.dev<a/> | JavaScript | :heavy_check_mark: | React.js |
 | <a href="https://github.com/theodoremoreland/ClassViewerWeb">ClassViewerWeb<a/> | TypeScript | :x: | React.js |
-| <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | Regular Expressions |
+| <a href="https://github.com/theodoremoreland/CellphoneActivity">CellphoneActivity<a/> | Python | :x: | RegEx |
 | <a href="https://github.com/theodoremoreland/TodoListApp">TodoListApp<a/> | TypeScript | :heavy_check_mark: | React-Native |
 | <a href="https://github.com/theodoremoreland/TheoDocs">TheoDocs<a/> | TypeScript | :x: | React.js |
 | <a href="https://github.com/theodoremoreland/Namesake">Namesake<a/> | Python | :x: | Amazon Alexa |
