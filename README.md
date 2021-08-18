@@ -1,1 +1,1 @@
-<img src="images/birds.jpg" width="900">
+<img src="images/missouri-river.jpg" width="900">
