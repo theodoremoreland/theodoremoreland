@@ -13,6 +13,12 @@
 ![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 
+### Coding Profiles
+- HackerRank: https://www.hackerrank.com/theodoremoreland
+- LeetCode: https://leetcode.com/theodoremoreland/
+- CodeSignal: https://app.codesignal.com/profile/tmoreland
+- Exercism: https://exercism.org/profiles/theodoremoreland
+
 ### 📚 Currently studying
 - AWS Developer Associate
 - AWS SysOps Associate
