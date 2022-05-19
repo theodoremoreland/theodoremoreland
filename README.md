@@ -15,8 +15,8 @@
 
 ### Coding Profiles
 - HackerRank: https://www.hackerrank.com/theodoremoreland
-- LeetCode: https://leetcode.com/theodoremoreland/
 - CodeSignal: https://app.codesignal.com/profile/tmoreland
+- LeetCode: https://leetcode.com/theodoremoreland/
 - Exercism: https://exercism.org/profiles/theodoremoreland
 
 ### 📚 Currently studying
