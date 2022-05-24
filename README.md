@@ -23,5 +23,5 @@
 - AWS Developer Associate
 - AWS SysOps Associate
 - C# / Unity 3D
-- Rust
+- C++
 - Algorithms
