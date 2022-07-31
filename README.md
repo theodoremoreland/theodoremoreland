@@ -26,6 +26,5 @@
 ### 📚 Currently studying
 - AWS Developer Associate
 - AWS SysOps Associate
-- C# / Unity 3D
 - C++ / Unreal Engine
 - Algorithms
