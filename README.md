@@ -1,5 +1,3 @@
-#### The Missouri river
-
 <img src="images/missouri-river.jpg" width="900">
 
 #### I'm listening to
