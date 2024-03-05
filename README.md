@@ -5,7 +5,7 @@
 #### I'm listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=theologicvs&cover_image=true&theme=natemoo-re&show_offline=false&background_color=026886&interchange=false&bar_color=58d7f1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-## My GitHub stats
+#### My GitHub stats
 
 [![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodoremoreland&theme=react&hide=contribs,issues,prs)](https://github.com/anuraghazra/github-readme-stats)
 
