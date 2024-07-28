@@ -1,8 +1,5 @@
 <img src="images/missouri-river.jpg" width="900">
 
-### I'm listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=theologicvs&cover_image=true&theme=natemoo-re&show_offline=false&background_color=026886&interchange=false&bar_color=58d7f1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 *Credit: [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)*
 
 ### My GitHub stats
