@@ -1,7 +1,5 @@
 <img src="images/missouri-river.jpg" width="900">
 
-*Credit: [spotify-github-profile](https://github.com/kittinan/spotify-github-profile)*
-
 ### My GitHub stats
 
 [![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodoremoreland&theme=react&hide=contribs,issues,prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
