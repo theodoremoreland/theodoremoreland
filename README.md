@@ -2,7 +2,7 @@
 
 ### My GitHub stats
 
-[![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodoremoreland&theme=react&hide=contribs,issues,prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodoremoreland&theme=react&hide=contribs,prs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Theo's GitHub Streak](https://streak-stats.demolab.com/?user=theodoremoreland&theme=ocean-gradient)](https://git.io/streak-stats)
 
