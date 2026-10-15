@@ -2,14 +2,12 @@ name: Post Closed Issue Shared Workflow
 
 on:
   workflow_call:
-    inputs:
+    secrets:
       api_endpoint:
         required: true
-        type: string
         description: "The API Gateway endpoint URL"
       api_key:
         required: true
-        type: string
         description: "The API Gateway API key"
 
 jobs:
@@ -18,8 +16,8 @@ jobs:
       steps:
         - name: Send Issue Data to API Gateway
           env:
-            API_ENDPOINT: "${{ inputs.api_endpoint }}"
-            API_KEY: "${{ inputs.api_key }}"
+            API_ENDPOINT: "${{ secrets.api_endpoint }}"
+            API_KEY: "${{ secrets.api_key }}"
             ISSUE_ID: "${{ github.event.issue.id }}"
             PROJECT_ID: "${{ github.event.repository.id }}"
             CREATED_TIMESTAMP: "${{ github.event.issue.created_at }}"
