@@ -7,6 +7,10 @@ on:
         required: true
         type: string
         description: "The API Gateway endpoint URL"
+      api_key:
+        required: true
+        type: string
+        description: "The API Gateway API key"
 
 jobs:
     post-issue:
@@ -15,6 +19,7 @@ jobs:
         - name: Send Issue Data to API Gateway
           env:
             API_ENDPOINT: "${{ inputs.api_endpoint }}"
+            API_KEY: "${{ inputs.api_key }}"
             ISSUE_ID: "${{ github.event.issue.id }}"
             PROJECT_ID: "${{ github.event.repository.id }}"
             CREATED_TIMESTAMP: "${{ github.event.issue.created_at }}"
@@ -48,6 +53,7 @@ jobs:
             # Send the POST request to API Gateway
             RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$API_ENDPOINT" \
               -H "Content-Type: application/json" \
+              -H "x-api-key: $API_KEY" \
               -d "$PAYLOAD")
   
             echo "API Gateway response status code: $RESPONSE"
