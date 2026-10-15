@@ -2,14 +2,12 @@ name: Post Merged PR Shared Workflow
 
 on:
   workflow_call:
-    inputs:
+    secrets:
       api_endpoint:
         required: true
-        type: string
         description: "The API Gateway endpoint URL for pull requests"
       api_key:
         required: true
-        type: string
         description: "The API Gateway API key"
 
 jobs:
@@ -31,8 +29,8 @@ jobs:
 
       - name: Send PR Data to API Gateway
         env:
-          API_ENDPOINT: "${{ inputs.api_endpoint }}"
-          API_KEY: "${{ inputs.api_key }}"
+          API_ENDPOINT: "${{ secrets.api_endpoint }}"
+          API_KEY: "${{ secrets.api_key }}"
           PR_ID: "${{ github.event.pull_request.id }}"
           PROJECT_ID: "${{ github.event.repository.id }}"
           MERGED_TIMESTAMP: "${{ github.event.pull_request.merged_at }}"
