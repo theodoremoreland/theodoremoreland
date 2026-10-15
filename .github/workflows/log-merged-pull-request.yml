@@ -1,0 +1,76 @@
+name: Post Merged PR Shared Workflow
+
+on:
+  workflow_call:
+    inputs:
+      api_endpoint:
+        required: true
+        type: string
+        description: "The API Gateway endpoint URL for pull requests"
+
+jobs:
+  post-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Fetch First Commit Timestamp
+        id: first-commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          # Fetch commits for the PR and grab the timestamp of the first commit
+          FIRST_COMMIT_DATE=$(gh api repos/$REPO/pulls/$PR_NUMBER/commits --jq '.[0].commit.committer.date // empty')
+          echo "first_commit_timestamp=$FIRST_COMMIT_DATE" >> $GITHUB_OUTPUT
+
+      - name: Send PR Data to API Gateway
+        env:
+          API_ENDPOINT: "${{ inputs.api_endpoint }}"
+          PR_ID: "${{ github.event.pull_request.id }}"
+          PROJECT_ID: "${{ github.event.repository.id }}"
+          MERGED_TIMESTAMP: "${{ github.event.pull_request.merged_at }}"
+          SUBMITTED_TIMESTAMP: "${{ github.event.pull_request.created_at }}"
+          TARGET_BRANCH: "${{ github.event.pull_request.base.ref }}"
+          FIRST_COMMIT_TIMESTAMP: "${{ steps.first-commit.outputs.first_commit_timestamp }}"
+          LABELS_JSON: "${{ toJson(github.event.pull_request.labels) }}"
+        run: |
+          # Convert labels array into a JSON list of label names
+          LABELS=$(echo "$LABELS_JSON" | jq '[.[].name]')
+
+          # Construct the JSON payload
+          PAYLOAD=$(jq -n \
+            --arg id "$PR_ID" \
+            --arg project_id "$PROJECT_ID" \
+            --arg merged_timestamp "$MERGED_TIMESTAMP" \
+            --arg first_commit_timestamp "$FIRST_COMMIT_TIMESTAMP" \
+            --arg submitted_timestamp "$SUBMITTED_TIMESTAMP" \
+            --arg target_branch "$TARGET_BRANCH" \
+            --argjson labels "$LABELS" \
+            '{
+              id: $id,
+              project_id: $project_id,
+              merged_timestamp: $merged_timestamp,
+              first_commit_timestamp: $first_commit_timestamp,
+              labels: $labels,
+              submitted_timestamp: $submitted_timestamp,
+              target_branch: $target_branch
+            }')
+
+          echo "Sending payload:"
+          echo "$PAYLOAD"
+
+          # Send the POST request to API Gateway
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$API_ENDPOINT" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD")
+
+          echo "API Gateway response status code: $RESPONSE"
+
+          if [ "$RESPONSE" -ge 200 ] && [ "$RESPONSE" -lt 300 ]; then
+            echo "Successfully posted merged PR data."
+          else
+            echo "Error: API returned status code $RESPONSE"
+            exit 1
+          fi
