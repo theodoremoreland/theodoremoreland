@@ -14,7 +14,7 @@ jobs:
       steps:
         - name: Send Issue Data to API Gateway
           env:
-            API_ENDPOINT: "${{ inputs.api_endpoint }}"
+            API_ENDPOINT: "${{ inputs.api_endpoint }}/issues"
             ISSUE_ID: "${{ github.event.issue.id }}"
             PROJECT_ID: "${{ github.event.repository.id }}"
             CREATED_TIMESTAMP: "${{ github.event.issue.created_at }}"
