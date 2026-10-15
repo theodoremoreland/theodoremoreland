@@ -1,11 +1,10 @@
-name: Log Closed Issue to API
+name: Log closed Issue to API
 
 on:
-  issues:
-    types: [closed]
+  workflow_call:
 
 jobs:
-  post-issue:
+  log-issue:
     runs-on: ubuntu-latest
     steps:
       - name: Send Issue Data to API Gateway
