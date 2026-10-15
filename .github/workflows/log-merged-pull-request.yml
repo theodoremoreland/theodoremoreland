@@ -9,7 +9,7 @@ on:
         description: "The API Gateway endpoint URL for pull requests"
 
 jobs:
-  post-pr:
+  post-pull-request:
     runs-on: ubuntu-latest
     permissions:
       contents: read
