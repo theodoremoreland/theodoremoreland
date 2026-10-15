@@ -1,15 +1,20 @@
-name: Log closed Issue to API
+name: Log closed Issue Shared Workflow
 
 on:
   workflow_call:
+    inputs:
+      api_endpoint:
+        required: true
+        type: string
+        description: "The API Gateway endpoint URL"
 
 jobs:
-  log-issue:
+  post-issue:
     runs-on: ubuntu-latest
     steps:
       - name: Send Issue Data to API Gateway
         env:
-          API_ENDPOINT: "${{ vars.API_ENDPOINT }}/issues"
+          API_ENDPOINT: "${{ inputs.api_endpoint }}/issues"
         run: |
           # Extract and format the required fields from the GitHub event payload
           ISSUE_ID="${{ github.event.issue.id }}"
@@ -38,7 +43,8 @@ jobs:
               labels: $labels
             }')
 
-          echo "Sending payload to API Gateway..."
+          echo "Sending payload:"
+          echo "$PAYLOAD"
 
           # Send the POST request to API Gateway
           RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$API_ENDPOINT" \
