@@ -1,0 +1,87 @@
+name: Publish Deployment Metadata
+
+on:
+  workflow_call:
+    inputs:
+      project_id:
+        required: true
+        type: string
+        description: "The unique identifier for the project."
+      target:
+        required: true
+        type: string
+        description: "Deployment target (aws-amplify, s3, lightsail, github-pages, elastic-beanstalk, ec2, etc)."
+      status:
+        required: true
+        type: string
+        description: "Status of the deployment (success or failed)."
+      deployment_id:
+        required: false
+        type: string
+        default: ""
+        description: "Optional custom deployment ID (falls back to workflow run ID if omitted)."
+      workflow_run_id:
+        required: false
+        type: string
+        description: "The GitHub workflow run ID. If omitted, defaults to current run."
+    secrets:
+      api_endpoint:
+        required: true
+        description: "The API Gateway endpoint URL for pull requests"
+      api_key:
+        required: true
+        description: "The API Gateway API key"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extract Metadata & Publish
+        env:
+          INPUT_PROJECT_ID: ${{ inputs.project_id }}
+          INPUT_TARGET: ${{ inputs.target }}
+          INPUT_STATUS: ${{ inputs.status }}
+          INPUT_DEPLOYMENT_ID: ${{ inputs.deployment_id }}
+          INPUT_WORKFLOW_RUN_ID: ${{ inputs.workflow_run_id }}
+          GH_RUN_ID: ${{ github.run_id }}
+          GH_RUN_ATTEMPT: ${{ github.run_attempt }}
+          API_ENDPOINT: ${{ secrets.api_endpoint }}
+          API_KEY: ${{ secrets.api_key }}
+        run: |
+          # Fallback workflow_run_id and id if not explicitly passed
+          RUN_ID="${INPUT_WORKFLOW_RUN_ID:-$GH_RUN_ID}"
+          DEPLOY_ID="${INPUT_DEPLOYMENT_ID:-$RUN_ID-$GH_RUN_ATTEMPT}"
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+          # Construct the JSON payload
+          PAYLOAD=$(jq -n \
+            --arg id "$DEPLOY_ID" \
+            --arg project_id "$INPUT_PROJECT_ID" \
+            --arg target "$INPUT_TARGET" \
+            --arg status "$INPUT_STATUS" \
+            --arg timestamp "$TIMESTAMP" \
+            --arg workflow_run_id "$RUN_ID" \
+            '{
+              id: $id,
+              project_id: $project_id,
+              target: $target,
+              status: $status,
+              timestamp: $timestamp,
+              workflow_run_id: $workflow_run_id
+            }')
+
+          echo "Publishing metadata payload:"
+          echo "$PAYLOAD"
+
+          # Send to REST API
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$API_ENDPOINT" \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer $API_TOKEN" \
+            -d "$PAYLOAD")
+
+          if [ "$RESPONSE" -ge 200 ] && [ "$RESPONSE" -lt 300 ]; then
+            echo "Successfully published deployment metadata (HTTP $RESPONSE)."
+          else
+            echo "Failed to publish metadata. Received HTTP status $RESPONSE."
+            exit 1
+          fi
